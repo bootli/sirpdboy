@@ -1,7 +1,7 @@
 ![hello](https://views.whatilearened.today/views/github/sirpdboy/deplives.svg)
 ## 访问数：[![](https://visitor-badge.glitch.me/badge?page_id=sirpdboy-visitor-badge)] [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/joinchat/AAAAAEpRF88NfOK5vBXGBQ)
 
-<p align="center"><a href="https://github.com/sirpdboy/openwrt18.06"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/sirpdboy/openwrt18.06"><img width="80%" src="" /></a></p>
 
 <br />
 
